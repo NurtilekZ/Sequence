@@ -60,5 +60,5 @@ sysinfo.txt
 crashlytics-build.properties
 
 Assembly-CSharp.csproj.DotSettings
-UserSettings/
-UIElementsSchema/
+/UserSettings/
+/UIElementsSchema/
